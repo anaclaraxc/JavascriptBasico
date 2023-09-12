@@ -6,3 +6,7 @@ https://anaclaraxc.github.io/JavascriptBasico/DeclaracaodeVariaveis/aula1.html
 
 ## Funções
 https://anaclaraxc.github.io/JavascriptBasico/Funcoes/funcoes.html
+
+## IMC 
+
+## tabuada
