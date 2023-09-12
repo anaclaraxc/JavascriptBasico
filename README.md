@@ -7,8 +7,8 @@ https://anaclaraxc.github.io/JavascriptBasico/DeclaracaodeVariaveis/aula1.html
 ## Funções
 https://anaclaraxc.github.io/JavascriptBasico/Funcoes/funcoes.html
 
-## projeto_IMC 
+## Projeto_IMC 
 
-## tabuada
+## Tabuada
 
-## aula_03
+## Aula_03
